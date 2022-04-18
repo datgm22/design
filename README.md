@@ -3,7 +3,7 @@
 - [シラバス](https://docs.google.com/spreadsheets/d/1uj9yl8_cSDtE1-uoQ9WH-9CZgrAIs8m_/edit?usp=sharing&ouid=116923691615503899101&rtpof=true&sd=true)
 - [質問]()
 - [Slack](https://datgm22.slack.com)
-- [講義日程]()
+- [講義日程](./wed.md)
 
 
 ## 1回目(4/20)
