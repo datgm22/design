@@ -20,6 +20,7 @@
   - [Capm Network. ゲーム理論](http://capm-network.com/?tag=%E3%82%B2%E3%83%BC%E3%83%A0%E7%90%86%E8%AB%96)
   - [スライド:ゲームの定義や要素からミニゲームを考える](https://docs.google.com/presentation/d/1_psbxg6vPk21C3nAcytyVJm8QTYr-G7AV1qAtjcRclg/)
   - [Unity Learning Material. たのしさの作り方 ](https://learning.unity3d.jp/2618/)
+  - [ゲームクリエイター甲子園2021受賞作品紹介](https://youtu.be/WVOuZTmua_8)
 - 演習：ミニゲームを考えてみよう
   - Googleドキュメント、スライド、ワークシートのいずれか
   - 共有URLをSlackの自分のチャンネルに書き込む
