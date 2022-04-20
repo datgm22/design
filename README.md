@@ -5,6 +5,17 @@
 - [Slack](https://datgm22.slack.com)
 - [講義日程](./wed.md)
 
+## 2回目(4/27)
+- 前回のGoogleドキュメントを共有して、[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdJ-8EnCFRQN9on10anfD2I3JQi9FExL7IOQ4QuerKPKm-BIQ/viewform?usp=sf_link)にURLを報告
+- 演習：キータイプ練習
+  - 今日の結果を[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdJ-8EnCFRQN9on10anfD2I3JQi9FExL7IOQ4QuerKPKm-BIQ/viewform?usp=sf_link)へ報告
+
+  - [Capm Network. ゲーム理論](http://capm-network.com/?tag=%E3%82%B2%E3%83%BC%E3%83%A0%E7%90%86%E8%AB%96)
+  - [スライド:ゲームの定義や要素からミニゲームを考える](https://docs.google.com/presentation/d/1_psbxg6vPk21C3nAcytyVJm8QTYr-G7AV1qAtjcRclg/)
+  - [Unity Learning Material. たのしさの作り方 ](https://learning.unity3d.jp/2618/)
+  - [ゲームクリエイター甲子園2021受賞作品紹介](https://youtu.be/WVOuZTmua_8)
+
+
 
 ## 1回目(4/20)
 - ログインユーザー gp20
@@ -24,5 +35,3 @@
 - 演習：ミニゲームを考えてみよう
   - Googleドキュメント、スライド、ワークシートのいずれか
   - 共有URLをSlackの自分のチャンネルに書き込む
-- 演習：キータイプ練習
-  - 今日の結果を[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdJ-8EnCFRQN9on10anfD2I3JQi9FExL7IOQ4QuerKPKm-BIQ/viewform?usp=sf_link)へ報告
