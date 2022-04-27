@@ -4,6 +4,7 @@
 - [質問](https://meet.google.com/cez-srkd-scn)
 - [Slack](https://datgm22.slack.com)
 - [講義日程](./wed.md)
+- [UNITYの準備](https://am1.jp/tutorials/unity/)
 
 ## 2回目(4/27)
 
