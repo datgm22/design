@@ -6,12 +6,25 @@
 - [講義日程](./wed.md)
 - [UNITYの準備](https://am1.jp/tutorials/unity/)
 
+## 3回目(5/11)
+
+### 話題
+- [1週間ゲームジャム](https://unityroom.com/unity1weeks)
+  - [ぺんそろ]()
+
+### 予定
+- 企画評価
+- [ゲームメカニクス / 演習：ハイパーカジュアルゲームを考える](https://docs.google.com/document/d/1U0DTbG__KQNiOBQCGeCm2Ty7IiBCMrEJgIMEMfH3MZk/edit?usp=sharing)
+- 演習：キータイプ練習
+  - 今日の結果を[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)へ報告
+
+
 ## 2回目(4/27)
 
 ### 話題
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)
 
-### 予定
+### 内容
 - 講義：[ゲームデザインの基礎](https://docs.google.com/document/d/1ItqVAv-e-dnThzUF1o-8xucq7l95gel6FF9-96kBkpo/)
 - [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)のカードリストを眺める
 - [Unity Learning Material. たのしさの作り方 ](https://learning.unity3d.jp/2618/)
@@ -24,7 +37,6 @@
   - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)・・・プランナー的視点、斬新なアイディア
 - ブレスト
   - [面白法人カヤック. 始まりも終わりもブレスト](https://www.kayac.com/vision/brainstorm)
-  - テーマ「」
 - [こちら]()を右クリックして、新しいタブで開く
   - シートしたから自分のグループのタブをクリックして開く
   - A列に、ホワイトボード側の人から順に思いついた単語を入力していく
@@ -60,9 +72,7 @@
   - 右上の 共有 をクリック
   - リンクを知っている全員に変更 をクリック
   - リンクをコピー をクリックして、完了をクリック
-  - こちら](https://docs.google.com/forms/d/e/1FAIpQLSdJ-8EnCFRQN9on10anfD2I3JQi9FExL7IOQ4QuerKPKm-BIQ/viewform?usp=sf_link) を開いて、氏名に名前を入力、URL欄を右クリックして、Ctrl + V キーでコピーしていたリンクを貼りつけて送信
-- 演習：キータイプ練習
-  - 今日の結果を[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)へ報告
+  - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSdJ-8EnCFRQN9on10anfD2I3JQi9FExL7IOQ4QuerKPKm-BIQ/viewform?usp=sf_link) を開いて、氏名に名前を入力、URL欄を右クリックして、Ctrl + V キーでコピーしていたリンクを貼りつけて送信
 
 
 
