@@ -72,7 +72,7 @@
   - 右上の 共有 をクリック
   - リンクを知っている全員に変更 をクリック
   - リンクをコピー をクリックして、完了をクリック
-  - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSdJ-8EnCFRQN9on10anfD2I3JQi9FExL7IOQ4QuerKPKm-BIQ/viewform?usp=sf_link) を開いて、氏名に名前を入力、URL欄を右クリックして、Ctrl + V キーでコピーしていたリンクを貼りつけて送信
+  - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link) を開いて、氏名に名前を入力、URL欄を右クリックして、Ctrl + V キーでコピーしていたリンクを貼りつけて送信
 
 
 
