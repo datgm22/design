@@ -6,6 +6,12 @@
 - [講義日程](./wed.md)
 - [UNITYの準備](https://am1.jp/tutorials/unity/)
 
+## 4回目(5/18)
+
+### 予定
+- 前回のランゲーム企画の講評
+
+
 ## 3回目(5/11)
 
 ### 話題
@@ -13,7 +19,7 @@
   - [ぺんそろ](https://unityroom.com/games/yksr)
   - [ぺんそろ企画概要書](https://docs.google.com/document/d/1y-jzBfFmothjNUP9EYf7D2keuFi20uoUMdiLOqkhy-g/)
 
-### 予定
+### 内容
 - 企画評価
 - [ゲームメカニクス / 演習：ハイパーカジュアルゲームを考える](https://docs.google.com/document/d/1U0DTbG__KQNiOBQCGeCm2Ty7IiBCMrEJgIMEMfH3MZk/edit?usp=sharing)
 - 演習：キータイプ練習
