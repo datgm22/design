@@ -9,8 +9,28 @@
 ## 4回目(5/18)
 
 ### 予定
+- レイアウト [FOTORIA. 三分割法で写真の構図をバッチリ決定！イラストで撮影方法を解決](https://fotoria.net/ja/blog/bc/photo-shoot-techniques/sc/composition/ar/rule-of-thirds/)
+- [色とUIのデザイン](https://am1.jp/dat/design/design4-color.pdf)
+  - [図](https://am1.jp/dat/design/design4-color-fig.pdf)
+  - [作業メモ](https://docs.google.com/document/d/1a_rWW82Q9g_PDXjtlKHyY_NooInNXocj35WYJJ-JyT4/)
 - 前回のランゲーム企画の講評
 
+### 演習　球体や立方体でハイパーカジュアルゲームなどの描きこまれていないオブジェクトで構成された画面を作る
+- 先週提出された企画案をベースにすると良い
+  - 先週の案が描きこまれたキャラものだったり、ない場合は、スマホやPCでPlayストアやAppストアを開いて、モデルにしたいゲームを選ぶ。その際、ゲームの提供元、タイトル、URLを調べてSlackに書き込む
+  - 例
+    - [Monument Valleyシリーズ](https://www.ustwogames.co.uk/)
+    - [Bounce and collect](https://apps.apple.com/jp/app/bounce-and-collect/id1553875472)
+- [Unityでレイアウト作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)
+  - アスペクト比を決める
+  - ライト設定
+  - 背景色
+  - プリミティブの作成
+  - マテリアルの作成
+  - カメラの設定
+  - 文字表示-TextMeshPro
+  - 親子階層
+- できたらスクリーンショットを撮影してSlackの自分のチャンネル(#times_???)に貼り付け
 
 ## 3回目(5/11)
 
