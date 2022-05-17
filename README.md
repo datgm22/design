@@ -16,7 +16,7 @@
 
 ### 話題
 - [1週間ゲームジャム](https://unityroom.com/unity1weeks)
-  - [ぺんそろ](https://unityroom.com/games/yksr)
+  - [ぺんそろ](https://unityroom.com/games/pensr)
   - [ぺんそろ企画概要書](https://docs.google.com/document/d/1y-jzBfFmothjNUP9EYf7D2keuFi20uoUMdiLOqkhy-g/)
 
 ### 内容
