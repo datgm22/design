@@ -6,6 +6,20 @@
 - [講義日程](./wed.md)
 - [UNITYの準備](https://am1.jp/tutorials/unity/)
 
+## 5回目(5/25)
+
+### 予定
+- [Unityでレイアウト作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)
+  - ライト設定の続きから
+  - 背景色
+  - プリミティブの作成
+  - マテリアルの作成
+  - カメラの設定
+  - 文字表示-TextMeshPro
+  - 親子階層
+- できたらスクリーンショットを撮影してSlackの自分のチャンネル(#times_???)に貼り付け
+
+
 ## 4回目(5/18)
 
 ### 予定
@@ -24,13 +38,6 @@
 - [Unityでレイアウト作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)
   - アスペクト比を決める
   - ライト設定
-  - 背景色
-  - プリミティブの作成
-  - マテリアルの作成
-  - カメラの設定
-  - 文字表示-TextMeshPro
-  - 親子階層
-- できたらスクリーンショットを撮影してSlackの自分のチャンネル(#times_???)に貼り付け
 
 ## 3回目(5/11)
 
