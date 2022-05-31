@@ -9,6 +9,11 @@
 ## 5回目(5/25)
 
 ### 予定
+- [](http://am1.space/dat/design/design3-shape.pdf)
+
+
+
+### 予定
 - [Unityでレイアウト作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)
   - ライト設定の続きから
   - 背景色
@@ -22,7 +27,7 @@
 
 ## 4回目(5/18)
 
-### 予定
+### 内容
 - レイアウト [FOTORIA. 三分割法で写真の構図をバッチリ決定！イラストで撮影方法を解決](https://fotoria.net/ja/blog/bc/photo-shoot-techniques/sc/composition/ar/rule-of-thirds/)
 - [色とUIのデザイン](http://am1.space/dat/design/design4-color.pdf)
   - [図](http://am1.space/dat/design/design4-color-fig.pdf)
