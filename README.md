@@ -6,12 +6,17 @@
 - [講義日程](./wed.md)
 - [UNITYの準備](https://am1.jp/tutorials/unity/)
 
+## リンク
+- [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/gp1/blob/master/github-unity.md)
+
+
 ## 5回目(5/25)
 
 ### 予定
 - [形のデザイン](http://am1.space/dat/design/design3-shape.pdf)
 - 前回のUnityプロジェクトをGitHubにPublishする
-  - [](https://github.com/datgm20/gp1/blob/master/github-unity.md)
+  - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/gp1/blob/master/github-unity.md)
+  - Publishしたら、GitHubリポジトリーのURLを[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)から送信
 - 前回の続き [Unityでレイアウト作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)
   - ライト設定の続きから
   - 背景色
