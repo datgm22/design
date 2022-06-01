@@ -14,6 +14,7 @@
 - *Initialize this repository with a README* にチェック
 - *Git ignore*欄をクリックして、`un`と入力すると*Unity*が選択されるのでクリックなどして選択
 - *Create repository*ボタンをクリック
+- Initialize Git LFSでは*Not now*をクリック
 - 右上の*Publish repository*ボタンをクリック
 - *Keep this code private* は**チェックしたまま**にする
 - *Publish repository*ボタンをクリック
