@@ -10,9 +10,24 @@
 - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 
-## 5回目(5/25)
+## 6回目(6/8)
 
 ### 予定
+- 前回の続き [Unityでレイアウト作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)
+  - ライト設定の続きから
+  - 背景色
+  - プリミティブの作成
+  - マテリアルの作成
+  - カメラの設定
+  - 文字表示-TextMeshPro
+  - 親子階層
+- [ProBuilderの利用](https://docs.google.com/document/d/129pS_YQPJq3srmxEqCDMUX8a9aqGGnTy0OzaEPsajXU/)
+- GitHubにPublishしてから、スクリーンショットを撮影してSlackの自分のチャンネル(#times_???)に貼り付ける
+
+
+## 5回目(6/1)
+
+### 内容
 - [形のデザイン](http://am1.space/dat/design/design3-shape.pdf)
 - 前回のUnityプロジェクトをGitHubにPublishする
   - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
@@ -25,8 +40,6 @@
   - カメラの設定
   - 文字表示-TextMeshPro
   - 親子階層
-- [ProBuilderの利用](https://docs.google.com/document/d/129pS_YQPJq3srmxEqCDMUX8a9aqGGnTy0OzaEPsajXU/)
-- GitHubにPublishしてから、スクリーンショットを撮影してSlackの自分のチャンネル(#times_???)に貼り付ける
 
 ## 4回目(5/18)
 
