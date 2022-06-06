@@ -22,7 +22,32 @@
   - 文字表示-TextMeshPro
   - 親子階層
 - [ProBuilderの利用](https://docs.google.com/document/d/129pS_YQPJq3srmxEqCDMUX8a9aqGGnTy0OzaEPsajXU/)
+- [coliss. 2022年用、日本語のフリーフォント616種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](https://coliss.com/articles/freebies/japanese-free-fonts.html)
+  - タイトル用と本文用の2つのフォントを見つける。**URLをGmailの下書きやGitHubのREADME.mdに記録しておく**
+- [UnityのUI基礎](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
+  - [TextMeshProの使い方](https://docs.google.com/document/d/1XIBCeH27Os43a1epTxYArBBaRK8iTLLIgwG0m4FrUTA/)
+  - [TextMeshPro向け　ASCIIコード＋JIS第1水準の文字](http://am1tanaka.hatenablog.com/entry/2019/10/14/183408)
+  - タイトル用のフォントは、使用する文字だけでフォントアセットを作成。サイズは48で、フォント画像サイズは全ての文字が収まる最小のサイズ
+  - スコアやメッセージ用フォントは、JIS第１水準の文字全て作成。サイズは24〜28ぐらいで2048x2048に収まるように調整
 - GitHubにPublishしてから、スクリーンショットを撮影してSlackの自分のチャンネル(#times_???)に貼り付ける
+
+### 時間があったら
+- [文字のデザイン](http://am1.space/dat/design/design5-font.pdf)
+  - [図](http://am1.space/dat/design/design5-font-fig.pdf)
+
+### 演習
+- 作成したモック画面のオブジェクトの調整とUIを追加して画面をまとめる
+- 第3回の演習で作成した企画に、現在作成しているUnityの画面を貼り付けて、タイトル、操作方法、ルールなどを記入して、企画書をバージョンアップさせる
+  - https://drive.google.com を開いて、Googleアカウントでログインして、3回目に作成したGoogleスライドを開いて追記する
+
+### レイアウトのヒント
+- [Anna Mészáros. デザイナーではない人がデザインする上で大切な4つの基本原則](https://gigazine.net/news/20190518-fundamental-design-principles/)
+- [個人開発のUI設計術](https://crieit.net/posts/UI)
+- [PHOTOSHOPVIP. 現役デザイナーが教える！完璧な書体を決める10個の黄金ルールまとめ](http://photoshopvip.net/105840?utm_content=bufferf79a8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+  - プロジェクトのテーマを明確化して、それに合うものを選ぶ
+  - フォントのフォルム（太さ、丸み、縦横比)はある程度揃えつつ、違いがあるもの
+  - 1つのプロジェクトで、タイトルと本文、あるいはタイトルとUIと本文といった、2種類以上のフォントを選ぶ
+
 
 
 ## 5回目(6/1)
