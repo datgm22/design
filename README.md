@@ -12,6 +12,9 @@
 
 ## 6回目(6/8)
 
+### 話題
+- [ゲームクリエイターアカデミア. 本当につくりたいゲームコンセプト講座 6/20(月)19時から](https://twitter.com/GC_koushien/status/1534097833120366593)
+
 ### 予定
 - 前回の続き [Unityでレイアウト作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)
   - ライト設定の続きから
