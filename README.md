@@ -14,14 +14,14 @@
 
 ### 予定
 - 復習 [Unityでレイアウト作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)
-- [ProBuilderの利用](https://docs.google.com/document/d/129pS_YQPJq3srmxEqCDMUX8a9aqGGnTy0OzaEPsajXU/)
-- [coliss. 2022年用、日本語のフリーフォント616種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](https://coliss.com/articles/freebies/japanese-free-fonts.html)
-  - タイトル用と本文用の2つのフォントを見つける。**URLをGmailの下書きやGitHubのREADME.mdに記録しておく**
 - [UnityのUI基礎](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
   - [TextMeshProの使い方](https://docs.google.com/document/d/1XIBCeH27Os43a1epTxYArBBaRK8iTLLIgwG0m4FrUTA/)
   - [TextMeshPro向け　ASCIIコード＋JIS第1水準の文字](http://am1tanaka.hatenablog.com/entry/2019/10/14/183408)
+　　- [coliss. 2022年用、日本語のフリーフォント616種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](https://coliss.com/articles/freebies/japanese-free-fonts.html)
+　　  - タイトル用と本文用の2つのフォントを見つける。**URLをGmailの下書きやGitHubのREADME.mdに記録しておく**
   - タイトル用のフォントは、使用する文字だけでフォントアセットを作成。サイズは48で、フォント画像サイズは全ての文字が収まる最小のサイズ
   - スコアやメッセージ用フォントは、JIS第１水準の文字全て作成。サイズは24〜28ぐらいで2048x2048に収まるように調整
+- [ProBuilderの利用](https://docs.google.com/document/d/129pS_YQPJq3srmxEqCDMUX8a9aqGGnTy0OzaEPsajXU/)
 - GitHubにPublishしてから、スクリーンショットを撮影してSlackの自分のチャンネル(#times_???)に貼り付ける
 
 ### 時間があったら
