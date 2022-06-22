@@ -15,6 +15,8 @@
 ### 予定
 - 前回までに作成したモック画面のUnityプロジェクトをGitHubにPublish、教員に共有して、[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)へURLを報告
   - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
+  - 企画概要書については、2回目の演習2と3回目の演習2を参照
+- 提出プロジェクトの確認
 
 
 ## 8回目(6/22)
