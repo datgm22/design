@@ -10,9 +10,16 @@
 - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 
-## 8回目(6/22)
+## 9回目(6/29)
 
 ### 予定
+- 前回までに作成したモック画面のUnityプロジェクトをGitHubにPublish、教員に共有して、[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)へURLを報告
+  - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
+
+
+## 8回目(6/22)
+
+### 内容
 - 復習
   - [Unityでレイアウト作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)
   - [UnityのUI基礎](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
