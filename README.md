@@ -9,6 +9,7 @@
 ## リンク
 - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
+- [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
 ## 9回目(6/29)
 
@@ -17,7 +18,15 @@
   - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
   - 企画概要書については、2回目の演習2と3回目の演習2を参照
 - 提出プロジェクトの確認
+- [著作権概論](https://docs.google.com/document/d/15zRG0hcf9OU3TFoJ5vZL43AGPKCqewpD7KS_QYwntaA/)
+- Unity版よけとるの素材探し
+  - 参考 [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
+### 演習
+- 利用可能なフリー素材サイトを探してSlackにURLを貼って共有しよう。また、以下について利用規約を調べてコメントする
+  - 利用条件(著作者表示やURLの記載など)
+  - 商用利用の可否
+  - 再配布の可否
 
 ## 8回目(6/22)
 
