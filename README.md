@@ -13,6 +13,10 @@
 
 ## 9回目(6/29)
 
+### 話題
+- [「講談社ゲームクリエイターズラボ」が2022年7月1日(金)から超リニューアルします！](https://creatorslab.kodansha.co.jp/gcl/gcla/)
+- [Levtech Co., Ltd. 「ほぼ実世界。リアルすぎるバーチャル空間を構築」多視点の写真から精密な3Dシーンを作成](https://levtech.jp/media/article/column/detail_99/)
+
 ### 予定
 - 前回までに作成したモック画面のUnityプロジェクトをGitHubにPublish、教員に共有して、[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)へURLを報告
   - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
