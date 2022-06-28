@@ -18,16 +18,17 @@
 - [Levtech Co., Ltd. 「ほぼ実世界。リアルすぎるバーチャル空間を構築」多視点の写真から精密な3Dシーンを作成](https://levtech.jp/media/article/column/detail_99/)
 
 ### 予定
-- 前回までに作成したモック画面のUnityプロジェクトをGitHubにPublish、教員に共有して、[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)へURLを報告
-  - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
-  - 企画概要書については、2回目の演習2と3回目の演習2を参照
-- 提出プロジェクトの確認
+- ランゲームモック(u0518mock)と企画概要書(Googleドライブに保存してある2回目の演習2と3回目の演習2)の仕上げと講評
+  - モック画面のUnityプロジェクトを共有していない場合は以下を参考に教員に共有
+    - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
+    - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [著作権概論](https://docs.google.com/document/d/15zRG0hcf9OU3TFoJ5vZL43AGPKCqewpD7KS_QYwntaA/)
 - Unity版よけとるの素材探し
   - 参考 [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
 ### 演習
-- 利用可能なフリー素材サイトを探してSlackにURLを貼って共有しよう。また、以下について利用規約を調べてコメントする
+- 利用可能なフリー素材サイトを探して、以下についてSlackの自分のチャンネルに貼って共有
+  - 素材サイトのURL
   - 利用条件(著作者表示やURLの記載など)
   - 商用利用の可否
   - 再配布の可否
