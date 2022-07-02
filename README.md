@@ -11,7 +11,7 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
-## 10回目()
+## 10回目(7/6)
 
 ### 話題
 - [三宅陽一郎. スマートシティ=メタバースの設計と構築](https://speakerdeck.com/miyayou/sumatositei-metabasufalseshe-ji-togou-zhu)
