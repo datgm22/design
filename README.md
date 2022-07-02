@@ -11,13 +11,48 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
+## 10回目()
+
+### 話題
+- [三宅陽一郎. スマートシティ=メタバースの設計と構築](https://speakerdeck.com/miyayou/sumatositei-metabasufalseshe-ji-togou-zhu)
+
+### 予定
+- 参考 [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
+- [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/)
+- [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
+- Unity版よけとるの素材探し
+- 用意する素材
+  - プレイヤー
+  - 敵(障害物)
+  - アイテム
+  - 背景(なくても色で対応は可能)
+  - タイトル曲
+  - ゲーム中の曲
+  - ゲーム開始ジングル
+  - アイテムを取った時の音
+  - ミスした時の音
+  - ハイスコアや戻る時に鳴らすクリック音
+  - タイトル用とゲーム中用の2種類程度のフォント
+- 素材集めの注意点
+  - 以下を調べて、使用できることを確認した上で、入手元のURLをSlackなどに書き込んで記録しておくこと
+    - 利用条件(著作者表示やURLの記載など)
+    - 商用利用の可否
+    - 再配布の可否
+- 作品は3Dで作成するので3Dのものの方が良いが、2Dでも作成は可能。どちらかに統一しておく方が良い
+- 以下のシーンを作成する
+  - タイトル
+  - ゲーム中
+  - ゲームオーバー(マルチシーン)
+  - クリア(マルチシーン)
+
+
 ## 9回目(6/29)
 
 ### 話題
 - [「講談社ゲームクリエイターズラボ」が2022年7月1日(金)から超リニューアルします！](https://creatorslab.kodansha.co.jp/gcl/gcla/)
 - [Levtech Co., Ltd. 「ほぼ実世界。リアルすぎるバーチャル空間を構築」多視点の写真から精密な3Dシーンを作成](https://levtech.jp/media/article/column/detail_99/)
 
-### 予定
+### 内容
 - ランゲームモック(u0518mock)と企画概要書(Googleドライブに保存してある2回目の演習2と3回目の演習2)の仕上げと講評
   - モック画面のUnityプロジェクトを共有していない場合は以下を参考に教員に共有
     - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
@@ -25,13 +60,6 @@
 - [著作権概論](https://docs.google.com/document/d/15zRG0hcf9OU3TFoJ5vZL43AGPKCqewpD7KS_QYwntaA/)
 - Unity版よけとるの素材探し
   - 参考 [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
-
-### 演習
-- 利用可能なフリー素材サイトを探して、以下についてSlackの自分のチャンネルに貼って共有
-  - 素材サイトのURL
-  - 利用条件(著作者表示やURLの記載など)
-  - 商用利用の可否
-  - 再配布の可否
 
 ## 8回目(6/22)
 
