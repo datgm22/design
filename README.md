@@ -15,12 +15,14 @@
 
 ### 話題
 - [三宅陽一郎. スマートシティ=メタバースの設計と構築](https://speakerdeck.com/miyayou/sumatositei-metabasufalseshe-ji-togou-zhu)
+- [Koji Kita. 今年もミクシィの22新卒技術研修の資料と動画を公開します！](https://mixi-developers.mixi.co.jp/22-technical-training-5fc362a9dc41)
 
 ### 予定
 - 参考 [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 - [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/)
 - [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
 - Unity版よけとるの素材探し
+  - 著作権の復習
 - 用意する素材
   - プレイヤー
   - 敵(障害物)
