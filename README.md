@@ -17,7 +17,7 @@
 - Unity2021.3.4f1の試運転
   - よけとる2022をUnity2021.3.4f1へアップデートして、WebGLでビルド
 - 参考 [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
-- [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/)
+- [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/) 仮シーンの作成から
 - [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
 - Unity版よけとるの素材探し
   - 著作権の復習
@@ -54,13 +54,12 @@
 - [Koji Kita. 今年もミクシィの22新卒技術研修の資料と動画を公開します！](https://mixi-developers.mixi.co.jp/22-technical-training-5fc362a9dc41)
 
 ### 内容
+- 著作権の復習
 - 参考 [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 - [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/)
   - 新規プロジェクトを3Dで作成
-  - Publish
-  - 教員に共有
-  - タイトルシーンの作成開始
-- 著作権の復習
+  - GitHubへPrivateでPublishして講師に共有
+  - プロジェクト設定とタイトルシーンの作成
 
 ## 9回目(6/29)
 
