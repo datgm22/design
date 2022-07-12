@@ -13,6 +13,11 @@
 
 ## 11回目(7/13)
 
+### 話題
+- [日本ゲーム大賞2022 U18部門予選プレゼン大会](https://youtu.be/thBYaMnMhmA)
+  - [予選作品一覧](https://u18.awards.cesa.or.jp/qualifying2022/)
+  - [決勝進出作品プレゼン](./jga2022u18.md)
+
 ### 前回のプロジェクトがない場合
 clusterの使い方を調べて、マイワールドを作成して、clusterに非公開でアップロードすることを目指す。ワールドの作成はワールドクラフトではなく、UnityのCluster Creator Kitで行う。
 
