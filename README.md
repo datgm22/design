@@ -11,6 +11,34 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
+## 12回目(7/20)
+
+### 話題
+- [Cluster Workshop 7/22 21:00-](https://cluster.mu/e/c456ba81-8a5a-4b1c-9f8c-d053e754b56b)
+
+### 予定
+- 参考 [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
+- [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/) オーディオ再生から
+- [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
+- 用意済みが期待される素材
+  - プレイヤー
+  - 敵(障害物)
+  - アイテム
+  - 背景(なくても色で対応は可能)
+  - タイトル曲
+  - ゲーム中の曲
+  - ゲーム開始ジングル
+  - アイテムを取った時の音
+  - ミスした時の音
+  - ハイスコアや戻る時に鳴らすクリック音
+  - タイトル用とゲーム中用の2種類程度のフォント
+- 素材集めの注意点
+  - 以下を調べて、使用できることを確認した上で、入手元のURLをSlackなどに書き込んで記録しておくこと
+    - 利用条件(著作者表示やURLの記載など)
+    - 商用利用の可否
+    - 再配布の可否
+- 作品は3Dで作成するので3Dのものの方が良いが、2Dでも作成は可能。どちらかに統一しておく方が良い
+
 ## 11回目(7/13)
 
 ### 話題
@@ -32,12 +60,11 @@ clusterの使い方を調べて、マイワールドを作成して、clusterに
 - 分からないことやPCの不具合、パスワードの入力が必要などが発生したら、Slackの自分のチャンネルに何があったかを入力して、その作業は保留して調査を先に進める
 
 
-### 予定
+### 内容
 - Unity2021.3.4f1の試運転
   - よけとる2022をUnity2021.3.4f1へアップデートして、WebGLでビルド
 - 参考 [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 - [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/) 仮シーンの作成から
-- [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
 - Unity版よけとるの素材探し
   - 著作権の復習
 - 用意する素材
