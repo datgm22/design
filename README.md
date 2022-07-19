@@ -65,6 +65,7 @@
     - 商用利用の可否
     - 再配布の可否
 - 作品は3Dで作成するので3Dのものの方が良いが、2Dでも作成は可能。どちらかに統一しておく方が良い
+- [paizaスキルチェックの準備](https://docs.google.com/document/d/1R_2RpgenKHdM7XPX9YjDXxZExyY1-srDI_Nnrw9tJeA/edit)
 
 ## 11回目(7/13)
 
