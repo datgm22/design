@@ -23,9 +23,12 @@
 
 ### 予定
 - 夏休み課題とpaizaランクの進捗報告
+- README.txtの作成
 - 夏休み課題の仕上げと質疑応答
-
-
+  - 提出できる状態なら以下を参考に提出
+    - [Visual C#作品](https://github.com/datgm22/design/blob/main/submit_visualcs.md)
+    - [Clusterワールド](https://github.com/datgm22/design/blob/main/submit_cluster.md)
+    - [Unity作品](https://github.com/datgm22/design/blob/main/submit_unity.md)
 
 
 ## 12回目(7/20)
