@@ -17,7 +17,6 @@
 - [GigaZINE. 画像生成AI「Stable Diffusion」を低スペックPCでも無料かつ待ち時間なしで使う方法まとめ](https://gigazine.net/news/20220824-stable-diffusion-google-colaboratory/)
 - [導入が非常に簡単なゲームエンジン GDevelop](https://gdevelop.io/ja-jp)
 - [桜井政博のゲーム作るには](https://www.youtube.com/channel/UC5CTV3JSdrlo5Pa42QkK8SA)
-- [CEDECチャンネルYouTube版](https://www.youtube.com/channel/UCmHaPXvwn9_4pMNAV6ewgoA)
 - [PERACON WEB](https://peracon.cesa.or.jp/)
   - [みやもと. PERACON2022 振り返りと自己分析](https://note.com/38mo10/n/na8611664670e)
 
