@@ -24,7 +24,7 @@
 - 夏休み課題とpaizaランクの進捗報告
 - README.txtの作成
   - [参考](https://github.com/datgm22/gp1/blob/main/sample_README.txt)
-  - 提出先 `Z:\2022\student\gp1\夏休み課題提出`フォルダー内に 通し番号 + 名前 のフォルダーを作成して、その中にREADME.txtファイルをコピー
+  - 提出先 `Z:\2022\student\gp1\夏休み課題提出`フォルダー内に `通し番号 + 名前` のフォルダーを作成して、その中にREADME.txtファイルをコピー
 - 夏休み課題の仕上げと質疑応答
   - 提出できる状態なら以下を参考に提出
     - [Visual C#作品](https://github.com/datgm22/design/blob/main/submit_visualcs.md)
