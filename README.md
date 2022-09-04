@@ -12,6 +12,8 @@
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
 ## 14回目(9/7)
+### 話題
+- [1週間ゲームジャム ためる](https://unityroom.com/unity1weeks)
 
 ### 予定
 - 夏休み課題、あるいは、別企画について、DATフェスタ(1週間ゲームジャム含む)への出展に必要な作業をまとめる
