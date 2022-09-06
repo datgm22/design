@@ -18,6 +18,36 @@
 ### 予定
 - 夏休み課題、あるいは、別企画について、DATフェスタ(1週間ゲームジャム含む)への出展に必要な作業をまとめる
 - 1週間ゲームジャムのテーマについてのアイディアだし
+- Unity版よけとるの制作状況の振り返りと実装に向けた準備
+
+
+### Unity版よけとる
+- 参考 [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
+- [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/) 完了
+- [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/) ゲームオーバーとクリアの状態遷移から
+- [02画面の作成](https://docs.google.com/document/d/1HPpJo7mVPVkBPub7OjiME6m65Wtbz9AX_LgGq2XjouM)
+- [03ゲームの実装](https://docs.google.com/document/d/1a3WNcxw9QOwKX9fGPmDTP3zXpboHtHTlKkHdRPvpVGY)
+- 用意済みが期待される素材
+  - プレイヤー
+  - 敵(障害物)
+  - アイテム
+  - 背景(なくても色で対応は可能)
+  - タイトル曲
+  - ゲーム中の曲
+  - ゲーム開始ジングル
+  - アイテムを取った時の音
+  - ミスした時の音
+  - ハイスコアや戻る時に鳴らすクリック音
+  - タイトル用とゲーム中用の2種類程度のフォント
+- 素材集めの注意点
+  - 以下を調べて、使用できることを確認した上で、入手元のURLをSlackなどに書き込んで記録しておくこと
+    - 利用条件(著作者表示やURLの記載など)
+    - 商用利用の可否
+    - 再配布の可否
+- 作品は3Dで作成するので3Dのものの方が良いが、2Dでも作成は可能。どちらかに統一しておく方が良い
+- [paizaスキルチェックの準備](https://docs.google.com/document/d/1R_2RpgenKHdM7XPX9YjDXxZExyY1-srDI_Nnrw9tJeA/edit)
+
+
 
 ## 13回目(8/31)
 
@@ -28,7 +58,7 @@
 - [PERACON WEB](https://peracon.cesa.or.jp/)
   - [みやもと. PERACON2022 振り返りと自己分析](https://note.com/38mo10/n/na8611664670e)
 
-### 予定
+### 内容
 - 夏休み課題とpaizaランクの進捗報告
 - README.txtの作成
   - [参考](https://github.com/datgm22/gp1/blob/main/sample_README.txt)
@@ -72,7 +102,7 @@
 - ゲームの概要、操作方法、遊び方をテキストファイルなどにまとめる
 
 
-### 予定
+### 内容
 - 参考 [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 - [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/) オーディオ再生から
 - [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
