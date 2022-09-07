@@ -18,6 +18,7 @@
 ### 予定
 - 夏休み課題のプロジェクトの提出
   - Visual C#の人は、講義時と同じ要領でGitHubにパブリッシュしてリポジトリのURLを報告する
+    [VisualStudioのプロジェクトをGitHubにPublishする](https://github.com/datgm21/gp1/wiki/VisualStudio%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92GitHub%E3%81%ABPublish%E3%81%99%E3%82%8B)
   - Unityの人は、以下の手順に従ってプロジェクトを圧縮して、Googleドライブにアップして、共有URLを報告する
     - [Unityプロジェクトの提出](https://docs.google.com/document/d/12QWPc6j8jO2LuwNXQ32qaLmNj2MfO-XFV2HW5_6PMDA/)
   - URLの報告先は[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)
