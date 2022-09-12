@@ -11,7 +11,7 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
-## 15回目(9/15)
+## 15回目(9/14)
 ### 話題
 - [1週間ゲームジャム ためる](https://unityroom.com/unity1weeks)
 
