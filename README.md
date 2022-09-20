@@ -11,6 +11,15 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
+
+## 後期1回目()
+
+### 話題
+- [Cluster GAMEJAM 2022 in AUTUMN](https://www.contest.cluster.mu/gamejam2022autumn-home) 10/28(金) 21:00から10/30(日) 21:00
+
+
+---
+
 ## 15回目(9/14)
 ### 話題
 - [1週間ゲームジャム ためる](https://unityroom.com/unity1weeks)
