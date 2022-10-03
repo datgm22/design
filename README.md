@@ -24,11 +24,13 @@
 - 2コマ目：席替えと作業
   - Unityグループ
     - よけとるのプロジェクト準備と復習
+      - [よけとる2022 雛形リポジトリ](https://github.com/datgm22/Yoketoru2022)
   - Cluster/GDevelopグループ
     - DATフェスタに向けた企画検討
     - チームでも個人でも可
 
 ### Unity版よけとる
+- [よけとる2022 雛形リポジトリ](https://github.com/datgm22/Yoketoru2022)
 - 参考 [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 - [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/) 完了
 - [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
