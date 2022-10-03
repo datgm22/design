@@ -17,11 +17,16 @@
 - [Cluster GAMEJAM 2022 in AUTUMN](https://www.contest.cluster.mu/gamejam2022autumn-home) 10/28(金) 21:00から10/30(日) 21:00
 
 ### 予定
-- Unityグループ
-  - よけとるのプロジェクト準備と復習
-- Cluster/GDevelopグループ
-  - DATフェスタに向けた企画検討
-  - チームでも個人でも可
+- 1コマ目：DATフェスタ出展作品の企画決定
+  - Unity, Cluster, GDevelopのいずれを利用するか
+  - ゲームの概要
+  - 以上を検討して、企画概要を発表
+- 2コマ目：席替えと作業
+  - Unityグループ
+    - よけとるのプロジェクト準備と復習
+  - Cluster/GDevelopグループ
+    - DATフェスタに向けた企画検討
+    - チームでも個人でも可
 
 ### Unity版よけとる
 - 参考 [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
