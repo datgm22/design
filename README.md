@@ -12,11 +12,17 @@
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
 
-## 後期1回目()
+## 後期1回目(10/5)
 
 ### 話題
 - [Cluster GAMEJAM 2022 in AUTUMN](https://www.contest.cluster.mu/gamejam2022autumn-home) 10/28(金) 21:00から10/30(日) 21:00
 
+### 予定
+- Unityグループ
+  - よけとるのプロジェクト準備
+- Cluster/GDevelopグループ
+  - DATフェスタに向けた企画検討
+  - チームでも個人でも可
 
 ---
 
@@ -24,7 +30,7 @@
 ### 話題
 - [1週間ゲームジャム ためる](https://unityroom.com/unity1weeks)
 
-### 予定
+### 内容
 - DATフェスタ(1週間ゲームジャム含む)への出展作品の企画の検討と相談
   - [DATフェスタ方針案のメモ](https://docs.google.com/document/d/1Ix-sOvhNREDrasJshPtgymK0QmTh-vem-IyR4o_kcRs/)
 
