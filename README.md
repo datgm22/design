@@ -25,6 +25,7 @@
   - Unityグループ
     - よけとるのプロジェクト準備と復習
       - [よけとる2022 雛形リポジトリ](https://github.com/datgm22/Yoketoru2022Prac)
+      - [雛形準備手順](https://docs.google.com/document/d/1eHzEidSWvceXCaB5KsXkkbKrAFykcImPOkrVJacBPFg/)
       - 復習も兼ねて、スクリプトを最初から作り直す
   - Cluster/GDevelopグループ
     - DATフェスタに向けた企画検討
