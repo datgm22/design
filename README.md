@@ -11,12 +11,26 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
+## 後期2回目(10/12)
+
+### 予定
+- よけとる続き「ゲームオーバーやクリアからタイトルに移行」から
+
+### Unity版よけとる
+- [よけとる2022 雛形リポジトリ](https://github.com/datgm22/Yoketoru2022Prac)
+- 参考 [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
+- [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/) 完了
+- [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
+- [02画面の作成](https://docs.google.com/document/d/1HPpJo7mVPVkBPub7OjiME6m65Wtbz9AX_LgGq2XjouM)
+- [03ゲームの実装](https://docs.google.com/document/d/1a3WNcxw9QOwKX9fGPmDTP3zXpboHtHTlKkHdRPvpVGY)
+
+
 ## 後期1回目(10/5)
 
 ### 話題
 - [Cluster GAMEJAM 2022 in AUTUMN](https://www.contest.cluster.mu/gamejam2022autumn-home) 10/28(金) 21:00から10/30(日) 21:00
 
-### 予定
+### 内容
 - 1コマ目：DATフェスタ出展作品の企画決定
   - Unity, Cluster, GDevelopのいずれを利用するか(追試があった学生はUnityは除外)
   - ゲームの概要
@@ -30,14 +44,6 @@
   - Cluster/GDevelopグループ
     - DATフェスタに向けた企画検討
     - チームでも個人でも可
-
-### Unity版よけとる
-- [よけとる2022 雛形リポジトリ](https://github.com/datgm22/Yoketoru2022Prac)
-- 参考 [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
-- [00よけとるUnityプロジェクトの作成](https://docs.google.com/document/d/1rk3klNfDD5tlQ0CpZVt34NibBh50MT6dYGDpHXmbCPw/) 完了
-- [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
-- [02画面の作成](https://docs.google.com/document/d/1HPpJo7mVPVkBPub7OjiME6m65Wtbz9AX_LgGq2XjouM)
-- [03ゲームの実装](https://docs.google.com/document/d/1a3WNcxw9QOwKX9fGPmDTP3zXpboHtHTlKkHdRPvpVGY)
 
 
 ---
