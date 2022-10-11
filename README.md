@@ -18,6 +18,8 @@
 
 ### 予定
 - よけとる続き「ゲームオーバーやクリアからタイトルに移行」から
+- Clusterの機能の確認
+
 
 ### Unity版よけとる
 - [よけとる2022 雛形リポジトリ](https://github.com/datgm22/Yoketoru2022Prac)
