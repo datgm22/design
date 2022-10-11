@@ -29,6 +29,7 @@
 - [01シーン遷移](https://docs.google.com/document/d/1jedYTiwZGNY2jnzP2awPAoVLjET93fylEYXc0BriXTk/)
 - [02画面の作成](https://docs.google.com/document/d/1HPpJo7mVPVkBPub7OjiME6m65Wtbz9AX_LgGq2XjouM)
 - [03ゲームの実装](https://docs.google.com/document/d/1a3WNcxw9QOwKX9fGPmDTP3zXpboHtHTlKkHdRPvpVGY)
+- [補足](https://docs.google.com/document/d/1eHzEidSWvceXCaB5KsXkkbKrAFykcImPOkrVJacBPFg/)
 
 
 ## 後期1回目(10/5)
