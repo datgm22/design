@@ -12,6 +12,10 @@
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 ## 後期4回目(10/26)
 
+### 話題
+- [Unity SYNC 2022](https://learning.unity3d.jp/)
+- [Cluster カンファレンスレポート](https://note.com/cluster_official/n/n2ede563729be)
+
 ### 予定
 
 - Clusterアップデート
