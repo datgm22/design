@@ -13,7 +13,7 @@
 ## 後期4回目(10/26)
 
 ### 話題
-- [Unity SYNC 2022](https://learning.unity3d.jp/)
+- [Unity SYNC 2022](https://www.youtube.com/watch?v=0wmDBqnWTtE&list=PLFw9ryLdiLzZ_z3DdDUFlmeuLCLQlrQ8j)
 - [Cluster カンファレンスレポート](https://note.com/cluster_official/n/n2ede563729be)
 
 ### 予定
