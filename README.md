@@ -19,7 +19,7 @@
 ### 予定
 
 - Clusterアップデート
-- Unityグループ よけとる2022作成 「03ゲームの実装 スコアを実装してからクリアへ戻る」から / ClusterとGDevelopグループはチュートリアルを中心にメンバー間で情報を共有しながら企画と開発を進める
+- Unityグループ よけとる2022作成 「03ゲームの実装 スコアを実装してからクリアへ戻る」から一旦完成 / ClusterとGDevelopグループはチュートリアルを中心にメンバー間で情報を共有しながら企画と開発を進める
 - [Clusterの機能の確認](https://docs.google.com/document/d/1OtxnAmo3AEo3qWFJ7XSdrDGL6gaIf6JV7Blgxq22Xik/)
 
 ### Unity版よけとる
