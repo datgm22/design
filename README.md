@@ -10,13 +10,23 @@
 - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
+
+## 後期5回目(11/2)
+
+### 予定
+- Clusterアップデート
+- [DAT展示作品の開発と質疑応答](https://docs.google.com/document/d/1HyYcXgPo60FbkbAfdcgJUvjsDIRfft6dx6QiN2PZG7g/)
+  - 作業進捗の確認と不具合相談
+  - Clusterのアップロード失敗対応
+  - GDevelopロープの検討
+
 ## 後期4回目(10/26)
 
 ### 話題
 - [Unity SYNC 2022](https://www.youtube.com/watch?v=0wmDBqnWTtE&list=PLFw9ryLdiLzZ_z3DdDUFlmeuLCLQlrQ8j)
 - [Cluster カンファレンスレポート](https://note.com/cluster_official/n/n2ede563729be)
 
-### 予定
+### 内容
 
 - Clusterアップデート
 - Unityグループ よけとる2022作成 「03ゲームの実装 スコアを実装してからクリアへ戻る」から一旦完成 / ClusterとGDevelopグループはチュートリアルを中心にメンバー間で情報を共有しながら企画と開発を進める
