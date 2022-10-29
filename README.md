@@ -19,7 +19,7 @@
   - 作業進捗の確認と不具合相談
   - Clusterのアップロード失敗対応
   - GDevelopロープの検討
-    - 参考 [Bounce And Hook](https://gdevelop.io/game-example/bounce-and-hook)
+    - 参考 [Bounce And Hook](https://gdevelop.io/game-example/bounce-and-hook) / [GDevelop Physics2マニュアル](https://wiki.gdevelop.io/ja/gdevelop5/behaviors/physics2#%E3%83%AD%E3%83%BC%E3%83%97%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%B3%E3%83%88)
 
 ## 後期4回目(10/26)
 
