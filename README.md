@@ -13,6 +13,9 @@
 
 ## 後期5回目(11/2)
 
+### 話題
+- [ClusterGAMEJAM 2022 in Autumn提出作品 イノシシ★ダッシュ](https://t.co/QjC4g19slf)
+
 ### 予定
 - Clusterアップデート
 - [DAT展示作品の開発と質疑応答](https://docs.google.com/document/d/1HyYcXgPo60FbkbAfdcgJUvjsDIRfft6dx6QiN2PZG7g/)
@@ -20,6 +23,12 @@
   - Clusterのアップロード失敗対応
   - GDevelopロープの検討
     - 参考 [Bounce And Hook](https://gdevelop.io/game-example/bounce-and-hook) / [GDevelop Physics2マニュアル](https://wiki.gdevelop.io/ja/gdevelop5/behaviors/physics2#%E3%83%AD%E3%83%BC%E3%83%97%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%B3%E3%83%88)
+
+### 来週予定
+- [Qiita Advent Calendar 2022](https://qiita.com/advent-calendar/2022)
+- [Unity で Stable Diffusionの機能を使う｜npaka](https://twitter.com/npaka123/status/1587091811314475008)
+- ゲームクリエイターズギルド公式chの企画書添削
+
 
 ## 後期4回目(10/26)
 
