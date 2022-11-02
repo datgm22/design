@@ -1,7 +1,7 @@
 # 2022年度生 ゲームデザイン実習
 
 - [シラバス](https://docs.google.com/spreadsheets/d/1uj9yl8_cSDtE1-uoQ9WH-9CZgrAIs8m_/edit?usp=sharing&ouid=116923691615503899101&rtpof=true&sd=true)
-- [質問](https://meet.google.com/cez-srkd-scn)
+- [質問・発表](https://meet.google.com/cez-srkd-scn)
 - [Slack](https://datgm22.slack.com)
 - [講義日程](./wed.md)
 - [UNITYの準備](https://am1.jp/tutorials/unity/)
