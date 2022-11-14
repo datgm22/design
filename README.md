@@ -17,12 +17,36 @@
 - [デジゲー博展示](https://twitter.com/am1tanaka/status/1591303694053957634)
   - [#デジゲー博](https://twitter.com/hashtag/%E3%83%87%E3%82%B8%E3%82%B2%E3%83%BC%E5%8D%9A?src=hashtag_click&f=live)
 
+### 今後の1年生の進行
+- DATフェスタのデータを取りまとめて、可能な範囲でWeb公開
+- 今回の開発経験をもとに、設計や最適化、企画運営の考え方を深める
+- 2年生の卒業制作に向けた下準備
+- 最後の週で実施する2時間ゲームジャムの準備
+
 ### 予定
-- [DAT展示作品のまとめと提出
-  - UnityとGDevelopは実行ファイルとプロジェクト一式
-  - Clusterは公開URLとUnityプロジェクト一式
-  - インストカードのデータ
-- 講評と今後に向けて
+- DATフェスタ版のビルドデータ、インストカードのデータ、プロジェクトの提出
+  - 全者共通
+    - `Z:` の指定のフォルダーを開いて、新しいフォルダーを作成して自分の名前に変更
+    - インストカードのデータを作成した自分の名前のフォルダーにコピー
+  - GDevelop
+    - 展示したビルドデータを自分の名前のフォルダーにコピー
+    - プロジェクトフォルダー一式を自分の名前のフォルダーにコピー
+  - UnityとCluster Creator Kit
+    - Unityプロジェクトをデスクトップにコピーする
+    - デスクトップにコピーしたUnityプロジェクトフォルダーを開いて、.gitとLibraryフォルダーを削除する
+    - デスクトップのUnityプロジェクトを右クリックして 7-Zip> 圧縮を選んで圧縮
+    - 圧縮したプロジェクト名.zipファイルを自分の名前のフォルダーにコピー
+  - Clusterとワールドクラフト
+    - 公開URLを[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)に報告
+- 展示のまとめ
+  - Googleドキュメントを新規に作成して文章名を「DATフェスタまとめ」とする
+  - 氏名を書く
+  - 展示をしていて気づいた点、来場者のコメントをGoogleドキュメントにまとめる
+  - 共有をクリックして、リンクを知っている全員が編集できるように設定して、共有リンクを[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)に報告
+- 提出されたビルドとドキュメントを確認して、今後の方向性を検討
+  - 水曜日は、主にデザインや演出面について扱う
+  - 木曜日は、主にアルゴリズムや開発ノウハウについて扱う
+
 
 
 ## 後期5回目(11/2)
@@ -77,7 +101,6 @@
 - [Cluster カンファレンスレポート](https://note.com/cluster_official/n/n2ede563729be)
 
 ### 内容
-
 - Clusterアップデート
 - Unityグループ よけとる2022作成 「03ゲームの実装 スコアを実装してからクリアへ戻る」から一旦完成 / ClusterとGDevelopグループはチュートリアルを中心にメンバー間で情報を共有しながら企画と開発を進める
 - [Clusterの機能の確認](https://docs.google.com/document/d/1OtxnAmo3AEo3qWFJ7XSdrDGL6gaIf6JV7Blgxq22Xik/)
