@@ -11,13 +11,27 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
+## 後期6回目(11/16)
+
+### 話題
+- [デジゲー博展示](https://twitter.com/am1tanaka/status/1591303694053957634)
+  - [#デジゲー博](https://twitter.com/hashtag/%E3%83%87%E3%82%B8%E3%82%B2%E3%83%BC%E5%8D%9A?src=hashtag_click&f=live)
+
+### 予定
+- [DAT展示作品のまとめと提出
+  - UnityとGDevelopは実行ファイルとプロジェクト一式
+  - Clusterは公開URLとUnityプロジェクト一式
+  - インストカードのデータ
+- 講評と今後に向けて
+
+
 ## 後期5回目(11/2)
 
 ### 話題
 - [ClusterGAMEJAM 2022 in Autumn提出作品 イノシシ★ダッシュ](https://t.co/QjC4g19slf)
 - [Qiita. Unity Advent Calendar 2022](https://qiita.com/advent-calendar/2022/unity)
 
-### 予定
+### 内容
 - Clusterアップデート
 - [DAT展示作品の開発と質疑応答](https://docs.google.com/document/d/1HyYcXgPo60FbkbAfdcgJUvjsDIRfft6dx6QiN2PZG7g/)
   - 作業進捗の確認と不具合相談
