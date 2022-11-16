@@ -43,6 +43,7 @@
   - 氏名を書く
   - 展示をしていて気づいた点、来場者のコメントをGoogleドキュメントにまとめる
   - 共有をクリックして、リンクを知っている全員が編集できるように設定して、共有リンクを[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)に報告
+  - 参考： https://am1tanaka.hatenablog.com/entry/2021/11/14/223032
 - 提出されたビルドとドキュメントを確認して、今後の方向性を検討
   - 水曜日は、主にデザインや演出面について扱う
   - 木曜日は、主にアルゴリズムや開発ノウハウについて扱う
