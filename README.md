@@ -39,8 +39,7 @@
   - Clusterとワールドクラフト
     - 公開URLを[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)に報告
 - 展示のまとめ
-  - Googleドキュメントを新規に作成して文章名を「DATフェスタまとめ」とする
-  - 氏名を書く
+  - Googleドキュメントを新規に作成して文章名を「DATフェスタまとめ：氏名」とする(例 DATフェスタまとめ：田中)
   - 展示をしていて気づいた点、来場者のコメントをGoogleドキュメントにまとめる
   - 共有をクリックして、リンクを知っている全員が編集できるように設定して、共有リンクを[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)に報告
   - 参考： https://am1tanaka.hatenablog.com/entry/2021/11/14/223032
