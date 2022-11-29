@@ -18,7 +18,7 @@
 
 ### 予定
 - 企画のブラッシュアップ
-  - RINGO SYOKUNIN
+  - [RINGO SYOKUNIN](https://docs.google.com/document/d/1cDDbExENlfoMA-6GMVtK8SRwk3NOx3Tc19-OjOBo4sA/)
 - 1週間ゲームジャム用の企画、開発素振り
 
 ## 後期6回目(11/16)
