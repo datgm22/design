@@ -11,12 +11,23 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
+## 後期8回目(12/7)
+### 話題
+- [次回Unity1週間ゲームジャムは12/12(月)から](https://twitter.com/naichilab/status/1596368012231446528)
+
+### 予定
+- [ポストプロセス](https://docs.google.com/document/d/1PhYwUOJd5xHd2JtDEFSgeMRXTd7xlZ3Nv3ANUAR9rn0/edit#heading=h.wxu06ozcclaa)続き
+  - [コーネルボックスとは](https://monobook.org/wiki/%E3%82%B3%E3%83%BC%E3%83%8D%E3%83%AB%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9)
+  - [ポストプロセッシングの設定手順](https://am1tanaka.hatenablog.com/entry/2018/05/19/172121)
+- 1週間ゲームジャム用の企画、開発素振り
+
+
 ## 後期7回目(11/30)
 
 ### 話題
 - [次回Unity1週間ゲームジャムは12/12(月)から](https://twitter.com/naichilab/status/1596368012231446528)
 
-### 予定
+### 内容
 - 企画のブラッシュアップ
   - [RINGO SYOKUNIN](https://docs.google.com/document/d/1cDDbExENlfoMA-6GMVtK8SRwk3NOx3Tc19-OjOBo4sA/)
 - 1週間ゲームジャム用の企画、開発素振り
