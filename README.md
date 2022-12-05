@@ -21,6 +21,17 @@
   - [ポストプロセッシングの設定手順](https://am1tanaka.hatenablog.com/entry/2018/05/19/172121)
 - 1週間ゲームジャム用の企画、開発素振り
 
+## 後期8回目(12/7)
+
+### 話題
+- [Cluster Creator #1 Advent Calendar 2022](https://am1tanaka.hatenablog.com/entry/2022/12/06/001050)
+
+### 予定
+- 1週間ゲームジャム用の企画、開発素振り
+- [ポストプロセス](https://docs.google.com/document/d/1PhYwUOJd5xHd2JtDEFSgeMRXTd7xlZ3Nv3ANUAR9rn0/edit#heading=h.wxu06ozcclaa)
+  - [コーネルボックスとは](https://monobook.org/wiki/%E3%82%B3%E3%83%BC%E3%83%8D%E3%83%AB%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9)
+  - [ポストプロセッシングの設定手順](https://am1tanaka.hatenablog.com/entry/2018/05/19/172121)
+
 
 ## 後期7回目(11/30)
 
