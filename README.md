@@ -13,6 +13,7 @@
 
 ## 後期8回目(12/7)
 ### 話題
+- [デジタル庁. ウェブアクセシビリティ導入ガイドブック](https://www.digital.go.jp/resources/introduction-to-web-accessibility-guidebook/)
 - [次回Unity1週間ゲームジャムは12/12(月)から](https://twitter.com/naichilab/status/1596368012231446528)
 - [Cluster Creator #1 Advent Calendar 2022](https://am1tanaka.hatenablog.com/entry/2022/12/06/001050)
 
