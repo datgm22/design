@@ -18,10 +18,11 @@
 - [Cluster Creator #1 Advent Calendar 2022](https://am1tanaka.hatenablog.com/entry/2022/12/06/001050)
 
 ### 予定
+- 1週間ゲームジャム用の企画、開発素振り
+  - [初回と2回目の講義が重要](https://github.com/datgm22/design#1%E5%9B%9E%E7%9B%AE420)
 - [ポストプロセス](https://docs.google.com/document/d/1PhYwUOJd5xHd2JtDEFSgeMRXTd7xlZ3Nv3ANUAR9rn0/edit#heading=h.wxu06ozcclaa)続き
   - [コーネルボックスとは](https://monobook.org/wiki/%E3%82%B3%E3%83%BC%E3%83%8D%E3%83%AB%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9)
   - [ポストプロセッシングの設定手順](https://am1tanaka.hatenablog.com/entry/2018/05/19/172121)
-- 1週間ゲームジャム用の企画、開発素振り
 
 ## 後期7回目(11/30)
 
