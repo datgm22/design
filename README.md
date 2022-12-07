@@ -20,6 +20,7 @@
 ### 予定
 - 1週間ゲームジャム用の企画、開発素振り
   - [初回と2回目の講義が重要](https://github.com/datgm22/design#1%E5%9B%9E%E7%9B%AE420)
+  - 狙いやメカニクスを厳選して減らす。デザイン1日、開発2日程度でできそうな内容まで内容を削る
   - ランゲームの企画の振り返り
 - [ポストプロセス](https://docs.google.com/document/d/1PhYwUOJd5xHd2JtDEFSgeMRXTd7xlZ3Nv3ANUAR9rn0/edit#heading=h.wxu06ozcclaa)続き
   - [コーネルボックスとは](https://monobook.org/wiki/%E3%82%B3%E3%83%BC%E3%83%8D%E3%83%AB%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9)
