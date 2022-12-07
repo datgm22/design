@@ -26,6 +26,11 @@
 - [ポストプロセス](https://docs.google.com/document/d/1PhYwUOJd5xHd2JtDEFSgeMRXTd7xlZ3Nv3ANUAR9rn0/edit#heading=h.wxu06ozcclaa)続き
   - [コーネルボックスとは](https://monobook.org/wiki/%E3%82%B3%E3%83%BC%E3%83%8D%E3%83%AB%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9)
   - [ポストプロセッシングの設定手順](https://am1tanaka.hatenablog.com/entry/2018/05/19/172121)
+- 演出強化のポイント
+  - 効果音をちゃんと設定
+  - Particles(パーティクル)
+  - Effects > Trail(トレイル)
+  - Animation
 
 ## 後期7回目(11/30)
 
