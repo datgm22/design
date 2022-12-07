@@ -16,6 +16,7 @@
 - [デジタル庁. ウェブアクセシビリティ導入ガイドブック](https://www.digital.go.jp/resources/introduction-to-web-accessibility-guidebook/)
 - [次回Unity1週間ゲームジャムは12/12(月)から](https://twitter.com/naichilab/status/1596368012231446528)
 - [Cluster Creator #1 Advent Calendar 2022](https://am1tanaka.hatenablog.com/entry/2022/12/06/001050)
+- [濱村 崇氏. アカウント](https://twitter.com/GDLab_Hama)
 
 ### 予定
 - 1週間ゲームジャム用の企画、開発素振り
