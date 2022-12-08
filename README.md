@@ -11,6 +11,20 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
+## 後期9回目(12/14)
+
+### 予定
+- 1週間ゲームジャム用の企画ヒアリング
+  - [初回と2回目の講義が重要](https://github.com/datgm22/design#1%E5%9B%9E%E7%9B%AE420)
+  - 狙いやメカニクスを厳選して減らす。デザイン1日、開発2日程度でできそうな内容まで内容を削る
+  - 面白さとクオリティ向上を考える
+- 演出強化のポイント
+  - 効果音をちゃんと設定
+  - Particles(パーティクル)
+  - Effects > Trail(トレイル)
+  - Animation
+
+
 ## 後期8回目(12/7)
 ### 話題
 - [デジタル庁. ウェブアクセシビリティ導入ガイドブック](https://www.digital.go.jp/resources/introduction-to-web-accessibility-guidebook/)
@@ -18,7 +32,7 @@
 - [Cluster Creator #1 Advent Calendar 2022](https://am1tanaka.hatenablog.com/entry/2022/12/06/001050)
 - [濱村 崇氏. アカウント](https://twitter.com/GDLab_Hama)
 
-### 予定
+### 内容
 - 1週間ゲームジャム用の企画、開発素振り
   - [初回と2回目の講義が重要](https://github.com/datgm22/design#1%E5%9B%9E%E7%9B%AE420)
   - 狙いやメカニクスを厳選して減らす。デザイン1日、開発2日程度でできそうな内容まで内容を削る
