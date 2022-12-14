@@ -11,9 +11,15 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
-## 後期9回目(12/14)
+## 後期10回目(12/21)
 
 ### 予定
+- 1週間ゲームジャム成果発表
+- チーム制作準備
+
+## 後期9回目(12/14)
+
+### 内容
 - 1週間ゲームジャム用の企画ヒアリング
   - [初回と2回目の講義が重要](https://github.com/datgm22/design#1%E5%9B%9E%E7%9B%AE420)
   - 狙いやメカニクスを厳選して減らす。デザイン1日、開発2日程度でできそうな内容まで内容を削る
