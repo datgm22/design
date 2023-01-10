@@ -11,12 +11,17 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
+## 後期11回目(1/11)
+
+### 予定
+- [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
+- 仕様作成演習。正月課題企画のアレンジ版の検討
 
 ## 後期10回目(12/21)
 
 残りの予定は[シラバス](https://docs.google.com/spreadsheets/d/1uj9yl8_cSDtE1-uoQ9WH-9CZgrAIs8m_/edit?usp=sharing&ouid=116923691615503899101&rtpof=true&sd=true)通り。
 
-### 予定
+### 内容
 - 1週間ゲームジャムの質疑応答
 - 1週間ゲームジャム成果発表
 - 学生チーム企画案を各自で検討
