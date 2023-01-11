@@ -11,11 +11,20 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
-## 後期11回目(1/11)
+## 後期12回目(1/18)
 
 ### 予定
-- [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
+- ポートフォリオページの発表
+  - [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
 - 仕様作成演習。正月課題企画のアレンジ版の検討
+- 設計
+
+
+## 後期11回目(1/11)
+
+### 内容
+- [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
+- これまでの成果をポートフォリオページにまとめる
 
 ### ポートフォリオとは？
 
