@@ -17,6 +17,19 @@
 - [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
 - 仕様作成演習。正月課題企画のアレンジ版の検討
 
+### ポートフォリオとは？
+
+- ポートフォリオとは何か、作る際に最初にやること、などを確認
+  - [paizaラーニング. ITエンジニアの就活準備編2: ポートフォリオ制作 ＃01:Webページを作ろう](https://paiza.jp/works/career/primer/career2/8010)
+  - [ゲームクリエイターズギルド. ポートフォリオは自分ブランディング！見せ方を設計しよう【ゲーム業界就活】](https://game.creators-guild.com/g4c/shukatsu-20210215)
+- ポートフォリオの例
+  - [Chomado’s Portfolio (ちょまど)](https://chomado.com/chomado/)
+  - [この講義での作例](portfolio-example.md)
+- ポートフォリオ自動作成サービスでどのような項目が記載されているかを確認
+  - [LAPRAS Inc. ポートフォリオ自動作成サービス](https://lapras.com/)
+
+
+
 ## 後期10回目(12/21)
 
 残りの予定は[シラバス](https://docs.google.com/spreadsheets/d/1uj9yl8_cSDtE1-uoQ9WH-9CZgrAIs8m_/edit?usp=sharing&ouid=116923691615503899101&rtpof=true&sd=true)通り。
