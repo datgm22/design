@@ -24,7 +24,7 @@
   - [ゲームクリエイターズギルド. ポートフォリオは自分ブランディング！見せ方を設計しよう【ゲーム業界就活】](https://game.creators-guild.com/g4c/shukatsu-20210215)
 - ポートフォリオの例
   - [Chomado’s Portfolio (ちょまど)](https://chomado.com/chomado/)
-  - [この講義での作例](portfolio-example.md)
+  - [この講義での作例](https://github.com/tanakaedu/portfolio-with-markdown/blob/main/portfolio-example.md)
 - ポートフォリオ自動作成サービスでどのような項目が記載されているかを確認
   - [LAPRAS Inc. ポートフォリオ自動作成サービス](https://lapras.com/)
 
