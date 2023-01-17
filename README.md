@@ -17,6 +17,7 @@
 - [ゲームクリエイターズギルド](https://game.creators-guild.com/)
 - [ゲームクリエイター甲子園2022 結果発表と2023エントリー](https://www.creators-guild.com/gck2022/award)
   - [2023開始ツイート](https://twitter.com/GC_koushien/status/1609383908939907076)
+- [コナミ. Indie Games Contest 学生選手権](https://www.konami.com/games/event/igc2023/contest.html?utm_source=twitter&utm_medium=social&utm_campaign=igc2023&utm_content=230111contest)
 
 ### 予定
 - チームごとに座る
