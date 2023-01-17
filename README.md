@@ -20,10 +20,10 @@
 - [コナミ. Indie Games Contest 学生選手権](https://www.konami.com/games/event/igc2023/contest.html?utm_source=twitter&utm_medium=social&utm_campaign=igc2023&utm_content=230111contest)
 
 ### 予定
-- チームごとに座る
 - ポートフォリオページの発表
   - [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
 - 仕様作成演習。チーム制作演習：企画の仕様作成
+  - チームごとの席に移動
   - [ゲームクリエイター甲子園. 元カプコンPから学ぶ！ゲーム企画書のつくりかた【入門編】](https://youtu.be/57onvHQyF9s)
   - [ゲームクリエイター甲子園. 元カプコンPから学ぶ！ゲーム企画書のつくりかた【入門編】 企画書のコツ](https://youtu.be/57onvHQyF9s?t=1092)
 - 設計
