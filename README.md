@@ -23,6 +23,8 @@
 - ポートフォリオページの発表
   - [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
 - 仕様作成演習。チーム制作演習：企画の仕様作成
+  - [ゲームクリエイター甲子園. 元カプコンPから学ぶ！ゲーム企画書のつくりかた【入門編】](https://youtu.be/57onvHQyF9s)
+  - [ゲームクリエイター甲子園. 元カプコンPから学ぶ！ゲーム企画書のつくりかた【入門編】 企画書のコツ](https://youtu.be/57onvHQyF9s?t=1092)
 - 設計
 
 
