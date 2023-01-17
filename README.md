@@ -13,6 +13,11 @@
 
 ## 後期12回目(1/18)
 
+### 話題
+- [ゲームクリエイターズギルド](https://game.creators-guild.com/)
+- [ゲームクリエイター甲子園2022 結果発表と2023エントリー](https://www.creators-guild.com/gck2022/award)
+  - [2023開始ツイート](https://twitter.com/GC_koushien/status/1609383908939907076)
+
 ### 予定
 - チームごとに座る
 - ポートフォリオページの発表
