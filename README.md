@@ -13,6 +13,8 @@
 
 ## 後期12回目(1/18)
 
+- [チーム分け](https://docs.google.com/spreadsheets/d/1sIq3pNWiWc4uNzRg4Td1jbWn9ye9ULVp5v7NlD4MoYs/edit#gid=0)
+
 ### 話題
 - [ゲームクリエイターズギルド](https://game.creators-guild.com/)
 - [ゲームクリエイター甲子園2022 結果発表と2023エントリー](https://www.creators-guild.com/gck2022/award)
