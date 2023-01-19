@@ -11,9 +11,23 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
-## 後期12回目(1/18)
+## 後期13回目(1/25)
 
 - [チーム分け](https://docs.google.com/spreadsheets/d/1sIq3pNWiWc4uNzRg4Td1jbWn9ye9ULVp5v7NlD4MoYs/edit#gid=0)
+
+### 予定
+- ポートフォリオページの進捗確認
+  - [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
+- 仕様演習　Re:verserのステージ構築
+  - [Re:verser アレンジ案](https://docs.google.com/document/d/1cBzjIVxqen3dl5JVDZzvi9JjLMMGtkhhV7WPWbHnQB4/)
+  - カメラ移動、プレイヤー操作などを試せるサンドボックスステージを作成する
+  - カメラの範囲を決める
+  - プレイヤーの移動を検討する
+- 企画打ち合わせ＆制作
+  - チームの一人がGoogleスライドを作成して、編集可能にして、URLを共有
+
+
+## 後期12回目(1/18)
 
 ### 話題
 - [ゲームクリエイターズギルド](https://game.creators-guild.com/)
@@ -21,7 +35,7 @@
   - [2023開始ツイート](https://twitter.com/GC_koushien/status/1609383908939907076)
 - [コナミ. Indie Games Contest 学生選手権](https://www.konami.com/games/event/igc2023/contest.html?utm_source=twitter&utm_medium=social&utm_campaign=igc2023&utm_content=230111contest)
 
-### 予定
+### 内容
 - ポートフォリオページの発表
   - [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
 - 仕様作成演習。チーム制作演習：企画の仕様作成
