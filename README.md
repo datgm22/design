@@ -21,6 +21,7 @@
 - 企画書と仕様書
   - [Unityの教科書 企画の作り方](https://am1.space/dat/design/UnityKyokasyoKikaku.pdf) 学内からのみアクセス可
 - 仕様演習　Re:verserのステージ構築
+  - Googleスプレッドシート(Excel) / GitHubのマークダウンやWiki / [Notion](https://www.notion.so/ja-jp) など
   - [Re:verser アレンジ案](https://docs.google.com/document/d/1cBzjIVxqen3dl5JVDZzvi9JjLMMGtkhhV7WPWbHnQB4/)
   - カメラ移動、プレイヤー操作などを試せるサンドボックスステージを作成する
   - カメラの範囲を決める
