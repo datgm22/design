@@ -13,6 +13,8 @@
 
 ## 後期14回目(2/1)
 
+### 話題
+- [ゲームクリエイター甲子園2023 エントリー方法の解説](https://game.creators-guild.com/g4c/23046/?utm_source=rss&utm_medium=rss&utm_campaign=23046)
 - [チーム分け](https://docs.google.com/spreadsheets/d/1sIq3pNWiWc4uNzRg4Td1jbWn9ye9ULVp5v7NlD4MoYs/edit#gid=0)
 
 ### 予定
