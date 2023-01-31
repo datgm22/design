@@ -18,7 +18,7 @@
 - [チーム分け](https://docs.google.com/spreadsheets/d/1sIq3pNWiWc4uNzRg4Td1jbWn9ye9ULVp5v7NlD4MoYs/edit#gid=0)
 
 ### 予定
-- ポートフォリオページの進捗確認
+- ポートフォリオページ評価版締め切り
   - [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
 - 企画書と仕様書
   - [Unityの教科書 企画の作り方](https://am1.space/dat/design/UnityKyokasyoKikaku.pdf) 学内からのみアクセス可
@@ -30,7 +30,7 @@
   - プレイヤーの移動を検討する
 - 企画打ち合わせ＆制作
   - チームの一人がGoogleスライドを作成して、編集可能にして、URLを共有
-
+  - 次回、発表
 
 ## 後期13回目(1/25)
 
