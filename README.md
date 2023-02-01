@@ -25,6 +25,7 @@
   - [Unityの教科書 企画の作り方](https://am1.space/dat/design/UnityKyokasyoKikaku.pdf) 学内からのみアクセス可
 - 仕様演習 オブジェクトの書き出し、スクリプトの要件
   - Googleスプレッドシート(Excel) / GitHubのマークダウンやWiki / [Notion](https://www.notion.so/ja-jp) など
+  - [よけとる改](https://docs.google.com/presentation/d/1ltls4UjhOX0J6hKhy44hc35kssDWG2zT21lI1u0Axo0/)企画概要
   - [Re:verser アレンジ案](https://docs.google.com/document/d/1cBzjIVxqen3dl5JVDZzvi9JjLMMGtkhhV7WPWbHnQB4/)
   - カメラ移動、プレイヤー操作などを試せるサンドボックスステージを作成する
   - カメラの範囲を決める
