@@ -30,13 +30,8 @@
     - 画面のスクリーンショット
     - 具体的な操作方法
     - 基本ルール
-- 仕様演習 オブジェクトの書き出し、スクリプトの要件
-  - Googleスプレッドシート(Excel) / GitHubのマークダウンやWiki / [Notion](https://www.notion.so/ja-jp) など
-  - [よけとる改](https://docs.google.com/presentation/d/1ltls4UjhOX0J6hKhy44hc35kssDWG2zT21lI1u0Axo0/)企画概要
-  - [Re:verser アレンジ案](https://docs.google.com/document/d/1cBzjIVxqen3dl5JVDZzvi9JjLMMGtkhhV7WPWbHnQB4/)
-  - カメラ移動、プレイヤー操作などを試せるサンドボックスステージを作成する
-  - カメラの範囲を決める
-  - プレイヤーの移動を検討する
+  - チームの企画書の共有URLを[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)へ報告
+    - 参考 [よけとる改](https://docs.google.com/presentation/d/1ltls4UjhOX0J6hKhy44hc35kssDWG2zT21lI1u0Axo0/)企画概要
 - 企画打ち合わせ＆制作
   - チームの一人がGoogleスライドを作成して、編集可能にして、URLを共有
   - 次回、発表
