@@ -30,6 +30,7 @@
     - 画面のスクリーンショット
     - 具体的な操作方法
     - 基本ルール
+    - 検討事項：上記を検討する上で不明なことが出てきたら質問形式などで書き出しておく。これの回答がすべて揃うように案を出す
   - チームの企画書の共有URLを[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdPXGSQ3ueVghzfhK7DAGMT4nFAj9RK3wM842cuz9i_LPFzUA/viewform?usp=sf_link)へ報告
     - 参考 [よけとる改](https://docs.google.com/presentation/d/1ltls4UjhOX0J6hKhy44hc35kssDWG2zT21lI1u0Axo0/)企画概要
 - 企画打ち合わせ＆制作
