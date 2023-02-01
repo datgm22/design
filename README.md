@@ -21,8 +21,15 @@
 ### 予定
 - ポートフォリオページ評価版締め切り
   - [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
-- 企画書と仕様書
+- 企画のまとめ
   - [Unityの教科書 企画の作り方](https://am1.space/dat/design/UnityKyokasyoKikaku.pdf) 学内からのみアクセス可
+  - 以下についてまとめる
+    - チーム名
+    - 世界観やプレイヤーの置かれた状況、役割(起)
+    - コンセプト。企画をまとめる方向性を示すもの
+    - 画面のスクリーンショット
+    - 具体的な操作方法
+    - 基本ルール
 - 仕様演習 オブジェクトの書き出し、スクリプトの要件
   - Googleスプレッドシート(Excel) / GitHubのマークダウンやWiki / [Notion](https://www.notion.so/ja-jp) など
   - [よけとる改](https://docs.google.com/presentation/d/1ltls4UjhOX0J6hKhy44hc35kssDWG2zT21lI1u0Axo0/)企画概要
