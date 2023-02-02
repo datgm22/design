@@ -17,6 +17,8 @@
 
 ### 予定
 - 部屋の切り替え仕上げ
+  - [Re:verserアレンジ版作業メモ](https://docs.google.com/document/d/1cBzjIVxqen3dl5JVDZzvi9JjLMMGtkhhV7WPWbHnQB4/edit?usp=sharing)
+  - [クラス案](https://docs.google.com/spreadsheets/d/1EQeCLPXJuIq-PQjr1hQ3nk_2fy1N1X0P6EJdDdjNtNY/)
 - 企画のまとめ
   - [Unityの教科書 企画の作り方](https://am1.space/dat/design/UnityKyokasyoKikaku.pdf) 学内からのみアクセス可
   - 以下についてまとめる
