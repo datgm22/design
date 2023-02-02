@@ -11,14 +11,36 @@
 - [違うフォルダーをGitHubに登録した場合の修正手順](https://github.com/datgm22/design/blob/main/fix-github-folder-miss.md)
 - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
 
+## 後期15回目(2/8)
+
+- [チーム分け](https://docs.google.com/spreadsheets/d/1sIq3pNWiWc4uNzRg4Td1jbWn9ye9ULVp5v7NlD4MoYs/edit#gid=0)
+
+### 予定
+- 部屋の切り替え仕上げ
+- 企画のまとめ
+  - [Unityの教科書 企画の作り方](https://am1.space/dat/design/UnityKyokasyoKikaku.pdf) 学内からのみアクセス可
+  - 以下についてまとめる
+    - チーム名
+    - 起： 世界観やプレイヤーの置かれた状況、役割、目的(ゲームの終わり方)
+    - コンセプト。企画をまとめる方向性を示すもの。ゲームを作る目的、狙う面白さなど
+    - 画面のスクリーンショット
+    - 具体的な操作方法
+    - 基本ルール
+    - 検討事項：上記を検討する上で不明なことが出てきたら質問形式などで書き出しておく。これの回答がすべて揃うように案を出す
+    - 参考 [よけとる改](https://docs.google.com/presentation/d/1ltls4UjhOX0J6hKhy44hc35kssDWG2zT21lI1u0Axo0/)企画概要
+- 企画打ち合わせ＆発表
+  - [Re:Start発表の感想](https://docs.google.com/forms/d/e/1FAIpQLSeswocXcKbZflmJkm3oPYtImjKZKrW4XVhzL_W4yTTT5WJ_3g/viewform?usp=sf_link)
+  - [リフレクションボール発表の感想](https://docs.google.com/forms/d/e/1FAIpQLSfoXlCo_q57AJPdE-hA6em0bRVNv2hDFzJnYScpJLlT7OWhjg/viewform?usp=sf_link)
+  - [おにぎりジャンプ発表の感想](https://docs.google.com/forms/d/e/1FAIpQLSfvHF3bVbvwxYJRqiaB7xw7nw6MtEtW8SyOzDKTvwK0j11yjw/viewform?usp=sf_link)
+  - [Re:verser発表の感想](https://docs.google.com/forms/d/e/1FAIpQLSdGMCIXgR4E86gLdaqZWfTfa4XAvpIb46sECifiLQvCHBt9Ww/viewform?usp=sf_link)
+  
+
 ## 後期14回目(2/1)
 
 ### 話題
 - [ゲームクリエイター甲子園2023](https://game.creators-guild.com/g4c/tag/%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%BF%E3%83%BC%E7%94%B2%E5%AD%90%E5%9C%92-2023/)
-- [チーム分け](https://docs.google.com/spreadsheets/d/1sIq3pNWiWc4uNzRg4Td1jbWn9ye9ULVp5v7NlD4MoYs/edit#gid=0)
 
-
-### 予定
+### 内容
 - ポートフォリオページ評価版締め切り
   - [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
 - 企画のまとめ
