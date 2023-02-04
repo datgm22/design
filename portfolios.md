@@ -6,7 +6,7 @@
 |iwatate|https://katann-tann.github.io/portfolio|
 |oshima|https://oshima27dat.github.io/portfolio|
 |kasai|https://kuzunisi290.github.io/portfolio|
-|kawai|https://suito0222.github.io/suito.portfolio.git|
+|kawai| https://suito0222.github.io/suito.portfolio|
 |kobune|https://nanakimin.github.io/portfolio|
 |saito|https://saitou-r.github.io/portfolio|
 |sho|https://syouzuiken.github.io/portfolio|
