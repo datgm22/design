@@ -20,7 +20,7 @@
   - paiza.jp にログイン
   - ページ上部のプログラミング学習 > スキルチェックを選択
   - Win + Shift + Sキーを押して、現在のpaizaランクを範囲選択してコピー
-  - Slackを開いて、times_の自分のチャンネルに貼り付けて送信
+  - Slackを開いて、ダイレクトメッセージのたなかゆう宛てに貼り付けて送信
 - 部屋の切り替え仕上げ
   - [Re:verserアレンジ版作業メモ](https://docs.google.com/document/d/1cBzjIVxqen3dl5JVDZzvi9JjLMMGtkhhV7WPWbHnQB4/edit?usp=sharing)
   - [クラス案](https://docs.google.com/spreadsheets/d/1EQeCLPXJuIq-PQjr1hQ3nk_2fy1N1X0P6EJdDdjNtNY/)
