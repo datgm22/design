@@ -2,7 +2,7 @@
 
 - Unityでプロジェクトを作成しておく
 - [Ctrl]+[S]キーでシーンを保存
-- [File]メニューから[Save Project]を選択して、プロジェクトを保存
+- [File]メニューから[Save Project]を選択して、プロジェクトを保存(Unityを閉じると安全)
 - **GitHub Desktop** を起動する
 - *File*メニューから、*Options*をクリック
 - GitHub.comがサインイン済みの時は、*Sign out*をクリックする
